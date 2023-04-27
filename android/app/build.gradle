@@ -60,6 +60,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.kvt.biometrics_auth_k'
 }
 
 flutter {
